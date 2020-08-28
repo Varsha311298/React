@@ -1,4 +1,4 @@
-Restaurant Website 
+Restaurant WebApp 
       - ReactJs Project 
 
 
